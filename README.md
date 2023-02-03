@@ -40,8 +40,17 @@ This Excel project showcases the key performance metrics and trends of an E-comm
 
 ## **Power BI Dashboard Visualization**
 
+The E-commerce business Power BI Dashboard visualizes key performance indicators(KPI) including Total Profit, Sales, Total Quantity, No. of Orders, Profit Margin%.
+It showcases the trend of Sales and Profit for each month, the Category-wise Profits and Sales, Sales by States, top customers and Category-wise Sales%. Additionally, the top 5 sub-categories by Sales are also displayed. The dashboard includes filters like years, regions, and segments.
 
+[Download The File](https://github.com/SarangGami/E-Commerce-Sales-Analysis-Excel-PowerBI/blob/main/1_Ecommerce%20Business%20Dashboard.pbix) and Open In Power BI Desktop for Interactive Viewing.
 
+ [View Screenshots](https://github.com/SarangGami/E-Commerce-Sales-Analysis-Excel-PowerBI/blob/main/1.PowerBI%20Ecommrce%20sales%20dashboard.pdf) of the Dashboard in PDF format.
+ 
+   [View Photos](https://github.com/SarangGami/E-Commerce-Sales-Analysis-Excel-PowerBI/tree/main/dashboard%20and%20Excel%20analysis%20photos) of Dashboard and excel analysis.
+
+  
+**Note:** The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it.
 
 
 
